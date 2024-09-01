@@ -1,0 +1,11 @@
+Make a Demo database
+
+// tasks to do 
+
+use db.collectionNane.deleteOne()
+use db.collectionNane.deleteMany()
+use db.collectionNane.replaceOne()
+use db.collectionNane.findOneAndDelete()
+use db.collectionNane.findOneAndUpdate()
+
+db.createCollection("Demo")
